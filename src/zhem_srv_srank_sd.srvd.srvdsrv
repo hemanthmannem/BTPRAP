@@ -1,0 +1,4 @@
+@EndUserText.label: 'sales rank definition'
+define service Zhem_srv_srank_sd {
+  expose zhem_cds_salesrank as salesrankset;
+}

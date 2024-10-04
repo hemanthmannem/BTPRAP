@@ -1,0 +1,4 @@
+@EndUserText.label: 'sales Order service def'
+define service Zhem_serv_salesorder {
+  expose zhem_c_cds_sales;
+}
